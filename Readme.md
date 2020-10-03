@@ -2,7 +2,12 @@
 > A Chrome Extension to speed up your GitHub repositories navigation
 
 ## Supported Browser
-Get it from Chrome Store! [TBA](TBA)
+Get it from Chrome Store! (To be added)
+
+## How to use
+1. Download from Chrome store or load unpacked package using this repository.
+2. Pin QuickGitHub icon on your browser by following this [guide](https://www.howtogeek.com/683099/how-to-pin-and-unpin-extensions-from-the-chrome-toolbar/)
+3. Open any github page, click QuickGitHub icon at the top right corner of your browser
 
 ## Features
 
