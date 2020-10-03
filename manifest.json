@@ -1,0 +1,23 @@
+{
+    "manifest_version": 2,
+    "name": "QuickGitHub",
+    "version": "1.0.0",
+    "description": "This extension shows recent Github visits and provides quick access to the repositories",
+    "icons": {
+        "16": "assets/images/icon16.png",
+        "32": "assets/images/icon32.png",
+        "48": "assets/images/icon48.png",
+        "128": "assets/images/icon128.png"
+    },
+    "browser_action": {
+            "default_icon": {
+            "16": "assets/images/icon16.png",
+            "32": "assets/images/icon32.png",
+            "48": "assets/images/icon48.png",
+            "128": "assets/images/icon128.png"
+        },
+        "default_popup": "popup.html",
+        "default_title": "Recent Github Visits"
+    },
+    "permissions": ["activeTab", "storage", "*://*.github.com/*" ]
+}
