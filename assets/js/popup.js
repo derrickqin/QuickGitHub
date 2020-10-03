@@ -19,7 +19,7 @@ function constructDataTableInput (results) {
 }
 
 chrome.tabs.query({ active: true, currentWindow: true }, ([tab]) => {
-    if (tab.url.startsWith("https://github.com/")) {
+    if (tab.url!= undefined && tab.url.startsWith("https://github.com/")) {
         chrome.tabs.executeScript(tab.id, { code: "localStorage.getItem('jump_to:page_views')" }, (results) => {
             if(results!=null) {
                 dataSet = constructDataTableInput(results);

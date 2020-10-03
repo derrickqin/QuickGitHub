@@ -19,5 +19,5 @@
         "default_popup": "popup.html",
         "default_title": "Recent Github Visits"
     },
-    "permissions": ["activeTab", "storage", "*://*.github.com/*" ]
+    "permissions": ["*://*.github.com/*" ]
 }
