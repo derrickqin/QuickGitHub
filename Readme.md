@@ -4,7 +4,7 @@
 ![Chrome Web Store](https://img.shields.io/chrome-web-store/v/gchhadgdlgoojhnabimedkhigcmbffhk.svg?style=for-the-badge&logo=google-chrome&logoColor=white)
 
 ## Supported Browser
-Get it from Chrome Store! QuickGitHub(https://chrome.google.com/webstore/detail/quickgithub/gchhadgdlgoojhnabimedkhigcmbffhk)
+Get it from Chrome Store! [QuickGitHub](https://chrome.google.com/webstore/detail/quickgithub/gchhadgdlgoojhnabimedkhigcmbffhk)
 
 ## How to use
 1. Download from Chrome store or load unpacked package using this repository.
